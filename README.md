@@ -18,7 +18,7 @@
 
 ## 🧬 About Me
 
-I'm an **Integrated M.Tech Software Engineering** student at **VIT Chennai** (CGPA 9.03), building high-performance systems close to the metal. I hand-write **AVX2/FMA SIMD kernels**, design **zero-allocation runtimes**, and implement algorithms like **HNSW** from scratch when the libraries aren't fast enough. My work spans approximate nearest-neighbor search, neural network inference engines, and full-stack systems — always backed by benchmarks, not guesses. Currently aiming for systems-level SWE internships where shaving microseconds off a hot path is the job, not a side quest.
+Systems-focused Software Engineering student building high-performance C++ applications from the ground up. Comfortable working close to the metal — AVX2/FMA SIMD intrinsics, cache-aware memory layouts, zero-allocation runtimes, multithreading, and algorithm design from first principles. Strong foundation in data structures, distributed systems, compiler/runtime design, and database internals, with a habit of backing every optimization with benchmarks. Currently sharpening concurrency and parallel systems skills while chasing systems-level SWE internships at top tech companies.
 
 
 ## 🎓 Education
