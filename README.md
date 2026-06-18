@@ -120,25 +120,6 @@ Solo-engineered full-stack platform with 3 role-based portals (Citizen, Voluntee
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=niharikakanithi9-lab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=C9D1D9&icon_color=4ADE80&ring_color=4ADE80"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharikakanithi9-lab&layout=compact&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=C9D1D9"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niharikakanithi9-lab&hide_border=true&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=niharikakanithi9-lab&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
-
-</div>
-
-<br/>
-
 ## 🎓 Education
 
 **VIT Chennai** — Integrated M.Tech, Software Engineering (3rd Year) — CGPA: **9.03**
