@@ -8,7 +8,7 @@
 
 <a href="https://github.com/niharikakanithi9-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=4ADE80" /></a>
 <a href="https://www.linkedin.com/in/niharika-kanithi-a6676439b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=4ADE80" /></a>
-<a href="https://github.com/niharikakanithi9-lab/NK."><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=4ADE80" /></a>
+<a href="https://nk-beta-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=4ADE80" /></a>
 <a href="https://leetcode.com/u/niharikakanithi/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=4ADE80" /></a>
 <a href="https://www.codechef.com/users/clean_coast_27"><img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=4ADE80" /></a>
 
